@@ -8,7 +8,7 @@ Project process record link: https://www.figma.com/file/7ldVLPE4ABosxUXgI0I0XE/f
 
 The full Unity package can be found here: https://onedrive.live.com/?id=CEC47367867A0D5F%21106&cid=CEC47367867A0D5F
 * Two of the most important scripts can be found in "SceneSwitcher.cs" and "ServerTest.cs"
-* Unity as a standalone module effects demo video link：
+* Unity as a standalone module effects demo video link：https://youtu.be/3ezRcyjP_4U
 
 The Touch Designer package can be found here:
 * Touch Designer as a standalone module effects demo video link：
