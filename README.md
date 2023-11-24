@@ -11,5 +11,5 @@ The full Unity package can be found here: https://onedrive.live.com/?id=CEC47367
 * Unity as a standalone module effects demo video link：https://youtu.be/3ezRcyjP_4U
 
 The Touch Designer package can be found here:
-* Touch Designer as a standalone module effects demo video link：
+* Touch Designer as a standalone module effects demo video link：https://youtu.be/-OO_sZWgxD8
 
