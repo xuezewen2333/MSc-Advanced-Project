@@ -10,6 +10,6 @@ The full Unity package can be found here: https://onedrive.live.com/?id=CEC47367
 * Two of the most important scripts can be found in "SceneSwitcher.cs" and "ServerTest.cs"
 * Unity as a standalone module effects demo video link：https://youtu.be/3ezRcyjP_4U
 
-The Touch Designer package can be found here:
+The Touch Designer package can be found here: https://1drv.ms/u/s!Al8NeoZnc8TO202Ezz8FrFeaJ2qZ?e=ulfDWM
 * Touch Designer as a standalone module effects demo video link：https://youtu.be/-OO_sZWgxD8
 
