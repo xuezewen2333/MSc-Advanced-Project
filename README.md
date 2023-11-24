@@ -1,6 +1,6 @@
 # MSc-Advanced-Project
 Silica Seas: Echoes of the Anthropocene
-Design Integrating Digital and Physical Interfaces for Immersive Artistic Creation
+*Design Integrating Digital and Physical Interfaces for Immersive Artistic Creation
 
 Project report video link: https://youtu.be/PdnhBmvn9JI
 
